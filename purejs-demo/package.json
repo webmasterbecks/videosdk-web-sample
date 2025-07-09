@@ -37,7 +37,7 @@
     "file-loader": "6.2.0",
     "html-webpack-plugin": "^5.5.0",
     "js-base64": "3.6.0",
-    "jsrsasign": "^10.8.6",
+    "jsrsasign": "^11.1.0",
     "node-polyfill-webpack-plugin": "1.1.0",
     "prettier": "^3.0.1",
     "style-loader": "2.0.0",
